@@ -34,3 +34,34 @@ This project demonstrates a clean backend architecture using Node.js, Express an
 ---
 
 ## Project Structure
+
+controllers/
+task.controller.js
+user.controller.js
+
+services/
+task.service.js
+user.service.js
+
+repositories/
+task.repository.js
+user.repository.js
+
+middleware/
+auth.middleware.js
+asyncHandler.js
+errorHandler.js
+logger.js
+validateTask.js
+
+app.js
+server.js
+db.js
+routes.js
+
+---
+
+
+---
+
+## API Endpoints
